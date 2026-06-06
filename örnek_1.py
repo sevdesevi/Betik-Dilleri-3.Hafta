@@ -4,7 +4,7 @@ print(f.read())
     ##f.write("Nasiba")
 try:
     f=open("Turkmen.txt","x",encoding="utf-8")
-except FileExistsError:                 #BURAK ŞAHİN TARAFINDAN KODLANDI
+except FileExistsError:              
     print("file exists")
 
 names=['eren', 'nasiba', 'guncha', 'gulsenem', 'ırmak']
