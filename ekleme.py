@@ -2,7 +2,7 @@
 from a import *
 try:
     f=open("ogrenciler.txt","x",encoding="utf-8")
-except FileExistsError:                 #BURAK ŞAHİN TARAFINDAN KODLANDI
+except FileExistsError:                 
     print("ogrenciler txt dosyası var")
 with open ("ogrenciler.txt","w",encoding="utf-8") as yazma:
     for i in ogrenciler:
