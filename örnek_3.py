@@ -1,7 +1,7 @@
 from a import *
 sayac=0
 for i in ogrenciler:
-    print(i)                        #BURAK ŞAHİN TARAFINDAN KODLANDI
+    print(i)                       
 for i in ogrenciler:
     if i["yas"]<20:
         #print(i)
