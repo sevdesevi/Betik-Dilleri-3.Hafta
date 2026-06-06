@@ -6,7 +6,7 @@ ogrenciler=[{
 },
 {
     "isim":"Serhat",
-    "yas":20,                   #BURAK ŞAHİN TARAFINDAN KODLANDI
+    "yas":20,                   
     "cinsiyet":"Erkek",
     "dogum_yeri":"İstanbul",
 },
